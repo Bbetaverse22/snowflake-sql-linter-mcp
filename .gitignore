@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+
+# MCP inspector / local tooling caches
+.mcp-inspector/
+
+# macOS
+.DS_Store
+
+# Misc
+*.log
